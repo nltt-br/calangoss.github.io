@@ -18,7 +18,7 @@ layout: default
   <details><summary>CVE-2023-3643</summary>
   <br>
   <pre>
-  <code id="code-block">
+  <code id="cve-2023-3643">
   # Exploit Title: Boss Mini 1.4.0 (Build 6221) - Local File Inclusion (LFI)
   # Date: 07/12/2023
   # Exploit Author: [nltt0] (https://github.com/nltt-br))
@@ -79,23 +79,24 @@ layout: default
   
   
   </code></pre>
-  <button onclick="downloadCode()">Download</button>
+  <button onclick="downloadCode('cve-2023-3643', 'CVE-2023-3643.py')">Download</button>
   
   </details>
 
 <script>
-  function downloadCode() {
-    const codeContent = document.getElementById("code-block").innerText;
+  function downloadCode(codeBlockId, fileName) {
+    const codeContent = document.getElementById(codeBlockId).innerText;
     const blob = new Blob([codeContent], { type: 'text/plain' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = "CVE-2023-3643.py";
+    a.download = fileName;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
-  }
+}
+
 </script>
 
 
