@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# CVE-2023-3643 [[>]](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3643)
+# CVE-2023-3643 [<!>](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-3643)
 
 A vulnerability was found in Boss Mini 1.4.0 Build 6221. It has been classified as critical. This affects an unknown part of the file boss/servlet/document. The manipulation of the argument path leads to file inclusion. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-233889 was assigned to this vulnerability. 
 
