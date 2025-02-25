@@ -4,9 +4,6 @@ layout: default
 
 - ## Init
   <details><summary>Research</summary>
-    <details><summary>Projects</summary>
-    <blockquote>GetSampleMB (https://github.com/nltt-br/GetSampleMB) </blockquote></details>
-    <blockquote>XXEcel (https://github.com/nltt-br/XXEcel) </blockquote></details>
     <details><summary>Exploring IDOR with Bitwise Operators</summary>
     <blockquote>by vpr</blockquote></details>
     <details><summary>CVE-2023-3643</summary>
