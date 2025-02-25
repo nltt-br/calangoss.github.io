@@ -4,6 +4,7 @@ layout: default
 
 - ## Init
   <details><summary>Research</summary>
+  <details><summary>Projects</summary></details>
     <details><summary>Exploring IDOR with Bitwise Operators</summary>
     <blockquote>by vpr</blockquote></details>
     <details><summary>CVE-2023-3643</summary>
