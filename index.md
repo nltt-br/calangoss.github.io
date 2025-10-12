@@ -18,8 +18,11 @@ layout: default
 # Exploit Author: [nltt0] (https://github.com/nltt-br))
 # CVE: CVE-2023-3643
 
+from requests import post 
+from urllib.parse import quote
+from argparse import ArgumentParser
 
-  '''
+banner = r'''
   _____       _                              _____ 
   /  __ \     | |                            /  ___|
   | /  \/ __ _| | __ _ _ __   __ _  ___  ___ \ `--. 
@@ -28,12 +31,10 @@ layout: default
   \____/\__,_|_|\__,_|_| |_|\__, |\___/|___/\____/ 
                               __/ |                 
                             |___/                  
-
+                  by nltt0
   '''
 
-  from requests import post 
-  from urllib.parse import quote
-  from argparse import ArgumentParser
+  print(banner)
 
   try:
       parser = ArgumentParser(description='Local file inclusion [Boss Mini]')
