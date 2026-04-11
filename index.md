@@ -4,13 +4,7 @@ layout: default
 
 <details>
   <summary><b>Init</b></summary>
-  <ul>
-    <li>t(o.ot)</li>
-    <li>t(o.ot)</li>
-  </ul>
-</details>
-
-<details>
+  <details>
   <summary><b>Research</b></summary>
   <ul>
     <li>t(o.ot)</li>
@@ -26,6 +20,9 @@ layout: default
     <li>t(o.ot)</li>
   </ul>
 </details>
+
+</details>
+
 
 
 
