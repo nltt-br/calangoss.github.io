@@ -3,7 +3,13 @@ layout: default
 ---
 
 - ## Init
-  
+
+  - ## Research
+
+  - ## WriteUp CTF
+
+
+
 <script>
   function downloadCode(codeBlockId, fileName) {
     const codeContent = document.getElementById(codeBlockId).innerText;
@@ -19,6 +25,7 @@ layout: default
 }
 
 </script>
+
 
 
 <br>
