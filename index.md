@@ -2,11 +2,30 @@
 layout: default
 ---
 
-- ## Init
+<details>
+  <summary><b>Init</b></summary>
+  <ul>
+    <li>t(o.ot)</li>
+    <li>t(o.ot)</li>
+  </ul>
+</details>
 
-  - ## Research
+<details>
+  <summary><b>Research</b></summary>
+  <ul>
+    <li>t(o.ot)</li>
+    <li>t(o.ot)</li>
+  </ul>
+</details>
 
-  - ## WriteUp CTF
+<details>
+  <summary><b>WriteUp CTF</b></summary>
+  <ul>
+    <li>t(o.ot)</li>
+    <li>t(o.ot)</li>
+    <li>t(o.ot)</li>
+  </ul>
+</details>
 
 
 
