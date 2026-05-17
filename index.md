@@ -32,7 +32,7 @@ layout: default
     <ul style="list-style-type: square;">
       <li>
         <b style="color: #ff5722;">[CVE-2023-3643]</b> 
-        <a href="#link-futuro">t(o.ot)
+        <a href="#link-futuro">t(o.ot)</a>
       </li>
     </ul>
   </details>
@@ -45,15 +45,13 @@ layout: default
     </ul>
   </details>
 
-  <!-- CATEGORIA 3: TOOLS / SCRIPTS -->
   <details style="margin-left: 20px; margin-top: 5px;">
     <summary><b>drwxr-xr-x /tools</b></summary>
     <ul style="list-style-type: square;">
-      <li></li>
+      <li>t(o.ot)</li>
     </ul>
   </details>
 
-  <!-- CATEGORIA 4: WRITEUPS CTF (O que você já tinha) -->
   <details style="margin-left: 20px; margin-top: 5px;">
     <summary><b>drwxr-xr-x /writeups_ctf</b></summary>
     <ul style="list-style-type: square;">
