@@ -31,8 +31,7 @@ layout: default
     <summary><b>drwxr-xr-x /advisories</b></summary>
     <ul style="list-style-type: square;">
       <li>
-        <b style="color: #ff5722;">[CVE-2023-3643]</b> 
-        <a href="#link-futuro">t(o.ot)</a>
+        <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-3643"><b style="color: #ff5722;">[CVE-2023-3643]</b></a>
       </li>
     </ul>
   </details>
