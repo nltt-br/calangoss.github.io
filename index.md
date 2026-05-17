@@ -32,6 +32,18 @@ layout: default
       <li>
         <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-3643" target="_blank"><b style="color: #ff5722;">[CVE-2023-3643]</b></a>
       </li>
+      <li>
+        <a href="https://www.exploit-db.com/exploits/52440" target="_blank"><b style="color: #ff5722;">[Flowise 3.0.4 - Remote Code Execution (RCE)]</b></a>
+      </li>
+      <li>
+        <a href="https://www.exploit-db.com/exploits/52557" target="_blank"><b style="color: #ff5722;">[Flowise < 3.0.5 - Missing Authentication for Critical Function]</b></a>
+      </li>
+      <li>
+        <a href="https://www.exploit-db.com/exploits/51848" target="_blank"><b style="color: #ff5722;">[Boss Mini 1.4.0 - local file inclusion]</b></a>
+      </li>
+      <li>
+        <a href="https://github.com/nltt-br/CalangosS-Research/tree/main/CVE-2025-4517" target="_blank"><b style="color: #ff5722;">[Python tarfile Arbitrary File Write via Path Traversal]</b></a>
+      </li>
     </ul>
   </details>
 
