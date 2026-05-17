@@ -18,7 +18,6 @@ layout: default
       <path d="M 446 73 L 520 73" fill="none" stroke="#39FF14" stroke-width="1" stroke-dasharray="4,4" opacity="0.4"/>
     </g>
   </svg>
-  <h1 style="letter-spacing: 4px; margin: 0;">CALANGOSS</h1>
   <div style="color: #39FF14; font-size: 13px; letter-spacing: 3px; font-family: monospace;">// OFFENSIVE RESEARCH</div>
 </div>
 
