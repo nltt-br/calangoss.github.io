@@ -79,10 +79,3 @@ layout: default
 
 <br>
 <br>
-
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/company/calangos-security/" target="_blank">
-    <img src="/assets/images/calangoss-icon2.png" width="80" height="55" style="opacity: 0.7; transition: 0.3s;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0.7">
-  </a>
-  <div style="font-size: 11px; color: #7c8996; margin-top: 5px;">[ Conectar via LinkedIn ]</div>
-</div>
