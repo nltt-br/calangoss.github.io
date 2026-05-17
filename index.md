@@ -28,16 +28,16 @@ layout: default
   <summary><b>root@calangoss:~# ls -la</b></summary>
   
   <details style="margin-left: 20px; margin-top: 10px;">
-    <summary><b>drwxr-xr-x /advisories</b></summary>
+    <summary><b>drwxr-xr-x /Advisories</b></summary>
     <ul style="list-style-type: square;">
       <li>
-        <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-3643"><b style="color: #ff5722;">[CVE-2023-3643]</b></a>
+        <a href="https://nvd.nist.gov/vuln/detail/CVE-2023-3643" target="_blank"><b style="color: #ff5722;">[CVE-2023-3643]</b></a>
       </li>
     </ul>
   </details>
 
   <details style="margin-left: 20px; margin-top: 5px;">
-    <summary><b>drwxr-xr-x /research</b></summary>
+    <summary><b>drwxr-xr-x /Research</b></summary>
     <ul style="list-style-type: square;">
       <li><a href="#link">t(o.ot)</a></li>
       <li><a href="#link">t(o.ot)</a></li>
@@ -45,14 +45,14 @@ layout: default
   </details>
 
   <details style="margin-left: 20px; margin-top: 5px;">
-    <summary><b>drwxr-xr-x /tools</b></summary>
+    <summary><b>drwxr-xr-x /Tools</b></summary>
     <ul style="list-style-type: square;">
       <li>t(o.ot)</li>
     </ul>
   </details>
 
   <details style="margin-left: 20px; margin-top: 5px;">
-    <summary><b>drwxr-xr-x /writeups_ctf</b></summary>
+    <summary><b>drwxr-xr-x /Writeups CTF</b></summary>
     <ul style="list-style-type: square;">
       <li>t(o.ot)</li>
       <li>t(o.ot)</li>
